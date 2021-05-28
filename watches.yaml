@@ -4,7 +4,6 @@
   group: cache.example.com
   kind: AppDB
   playbook: playbooks/appdb.yml
-
 - version: v1alpha1
   group: cache.example.com
   kind: App
